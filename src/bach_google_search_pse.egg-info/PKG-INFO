@@ -1,3 +1,20 @@
+Metadata-Version: 2.4
+Name: bach-google-search-pse
+Version: 0.2.3
+Summary: Google 可编程搜索引擎 MCP 服务器 - 提供关键词搜索、URL内容获取和PDF解析功能
+Author-email: bachstudio <bachstudio@example.com>
+License: MIT
+Project-URL: Homepage, https://github.com/rongquanfeng/GoogleSearchPSEMCP
+Project-URL: Repository, https://github.com/rongquanfeng/GoogleSearchPSEMCP.git
+Project-URL: Bug Reports, https://github.com/rongquanfeng/GoogleSearchPSEMCP/issues
+Keywords: mcp,google-search,pse,web-scraping,pdf-parser
+Requires-Python: >=3.11
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: mcp[cli]>=1.12.3
+Requires-Dist: requests>=2.31.0
+Dynamic: license-file
+
 # Bach Google Search PSE
 
 Google 可编程搜索引擎 MCP 服务器 - 为 AI 助手提供强大的网页搜索和内容获取能力
