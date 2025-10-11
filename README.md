@@ -85,8 +85,8 @@ bach-google-search-pse
 ## 🔗 相关链接
 
 - **PyPI 包地址**: https://pypi.org/project/bach-google-search-pse/
-- **GitHub 仓库**: https://github.com/rongquanfeng/GoogleSearchPSEMCP
-- **问题反馈**: https://github.com/rongquanfeng/GoogleSearchPSEMCP/issues
+- **GitHub 仓库**: https://github.com/BACH-AI-Tools/GoogleSearchPSEMCP
+- **问题反馈**: https://github.com/BACH-AI-Tools/GoogleSearchPSEMCP/issues
 
 ## 📄 许可证
 

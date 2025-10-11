@@ -1,6 +1,6 @@
 [project]
 name = "bach-google-search-pse"
-version = "0.2.4"
+version = "0.2.5"
 description = "Google 可编程搜索引擎 MCP 服务器 - 提供关键词搜索、URL内容获取和PDF解析功能"
 readme = "README.md"
 authors = [
@@ -15,9 +15,9 @@ keywords = ["mcp", "google-search", "pse", "web-scraping", "pdf-parser"]
 license = { text = "MIT" }
 
 [project.urls]
-"Homepage" = "https://github.com/rongquanfeng/GoogleSearchPSEMCP"
-"Repository" = "https://github.com/rongquanfeng/GoogleSearchPSEMCP.git"
-"Bug Reports" = "https://github.com/rongquanfeng/GoogleSearchPSEMCP/issues"
+"Homepage" = "https://github.com/BACH-AI-Tools/GoogleSearchPSEMCP"
+"Repository" = "https://github.com/BACH-AI-Tools/GoogleSearchPSEMCP.git"
+"Bug Reports" = "https://github.com/BACH-AI-Tools/GoogleSearchPSEMCP/issues"
 
 [project.scripts]
 bach-google-search-pse = "mcpccc:main"
